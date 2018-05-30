@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProgettoEsame</string>
+    <string name="NomeCapitale">Nome:</string>
+    <string name="StatoCapitale">Stato:</string>
+    <string name="PopolazioneCapitale">Popolazione:</string>
+    <string name="DownloadInformation">Download Information</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+</resources>
